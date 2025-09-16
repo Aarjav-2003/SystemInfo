@@ -1,1 +1,1 @@
-print("System Information is not shown yet")
+print("System Information is not shown yet.................")
